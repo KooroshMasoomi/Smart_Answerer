@@ -59,8 +59,6 @@ SENSITIVITY = 40
 
 ### Both Hello and Hi answers have a percentage of 40% in the answers, and they are confirmed based on the SENSITIVITY variable, and the answer Hello, How are you? which percentage ratio is 20%, it is not confirmed that the program chooses one of these two answers randomly and gives the answer:
 
-<br>
-
 ```console
 >> Hello
 Hi
