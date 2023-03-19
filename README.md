@@ -68,6 +68,6 @@ Hi
 Hello
 ```
 
-<br>
+<hr>
 
 **Finally, you can provide more data to the program and give more answers to your message.**
