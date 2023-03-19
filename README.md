@@ -26,8 +26,6 @@ SENSITIVITY = 40
 
 ### For example, we have such data:
 
-<br>
-
 <table border>
     <thead>
         <tr>
