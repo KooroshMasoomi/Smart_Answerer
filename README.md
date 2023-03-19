@@ -24,7 +24,7 @@ SENSITIVITY = 40
 
 <hr>
 
-## For example, we have such data:
+### For example, we have such data:
 
 <table border>
     <thead>
