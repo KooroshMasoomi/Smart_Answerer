@@ -44,8 +44,12 @@ def random_reply(message: str, messages_and_replies) -> str:
 
 
 if __name__ == "__main__":
-    while True:
-        message = input(">> ")
-        if message in messages_and_replies:
-            reply = random_reply("Hello", messages_and_replies)
-            print(reply)
+    try:
+        while True:
+            message = input(">> ")
+            if message in messages_and_replies:
+                reply = random_reply("Hello", messages_and_replies)
+                print(reply)
+    except KeyboardInterrupt:
+        print("Process Stopped.")
+
